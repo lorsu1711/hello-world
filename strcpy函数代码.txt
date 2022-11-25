@@ -13,3 +13,6 @@ char * StrCpy(char *src)
   *p='\0';
   return p;
 }
+/**
+本地编辑
+*/
